@@ -69,6 +69,9 @@ nav a {
   text-align: center;
 }
 /* WHITE SECTION*/
+.white-section {
+  text-align: center;
+}
 
 .white-section img {
   width: 50%;
@@ -83,6 +86,7 @@ nav a {
   padding: 50px;
 }
 .white-section h2 {
+  display: inline-block;
   border-bottom: solid 4px #00b172;
   padding-bottom: 5px;
   padding-top: 50px;
